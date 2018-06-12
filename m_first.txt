@@ -1,0 +1,2 @@
+THis is my first git prog.
+Updating the file
